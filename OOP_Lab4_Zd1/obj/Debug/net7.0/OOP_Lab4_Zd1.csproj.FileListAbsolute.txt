@@ -1,0 +1,14 @@
+D:\Projekts_Visual_Studio\Repozitorium\OOP_Lab4_Zd1\obj\Debug\net7.0\OOP_Lab4_Zd1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projekts_Visual_Studio\Repozitorium\OOP_Lab4_Zd1\obj\Debug\net7.0\OOP_Lab4_Zd1.AssemblyInfoInputs.cache
+D:\Projekts_Visual_Studio\Repozitorium\OOP_Lab4_Zd1\obj\Debug\net7.0\OOP_Lab4_Zd1.AssemblyInfo.cs
+D:\Projekts_Visual_Studio\Repozitorium\OOP_Lab4_Zd1\obj\Debug\net7.0\OOP_Lab4_Zd1.csproj.CoreCompileInputs.cache
+D:\Projekts_Visual_Studio\Repozitorium\OOP_Lab4_Zd1\bin\Debug\net7.0\OOP_Lab4_Zd1.exe
+D:\Projekts_Visual_Studio\Repozitorium\OOP_Lab4_Zd1\bin\Debug\net7.0\OOP_Lab4_Zd1.deps.json
+D:\Projekts_Visual_Studio\Repozitorium\OOP_Lab4_Zd1\bin\Debug\net7.0\OOP_Lab4_Zd1.runtimeconfig.json
+D:\Projekts_Visual_Studio\Repozitorium\OOP_Lab4_Zd1\bin\Debug\net7.0\OOP_Lab4_Zd1.dll
+D:\Projekts_Visual_Studio\Repozitorium\OOP_Lab4_Zd1\bin\Debug\net7.0\OOP_Lab4_Zd1.pdb
+D:\Projekts_Visual_Studio\Repozitorium\OOP_Lab4_Zd1\obj\Debug\net7.0\OOP_Lab4_Zd1.dll
+D:\Projekts_Visual_Studio\Repozitorium\OOP_Lab4_Zd1\obj\Debug\net7.0\refint\OOP_Lab4_Zd1.dll
+D:\Projekts_Visual_Studio\Repozitorium\OOP_Lab4_Zd1\obj\Debug\net7.0\OOP_Lab4_Zd1.pdb
+D:\Projekts_Visual_Studio\Repozitorium\OOP_Lab4_Zd1\obj\Debug\net7.0\OOP_Lab4_Zd1.genruntimeconfig.cache
+D:\Projekts_Visual_Studio\Repozitorium\OOP_Lab4_Zd1\obj\Debug\net7.0\ref\OOP_Lab4_Zd1.dll
