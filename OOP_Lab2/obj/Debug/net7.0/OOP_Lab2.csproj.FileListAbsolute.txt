@@ -1,0 +1,14 @@
+D:\Projekts_Visual_Studio\Repozitorium\OOP_Lab2\bin\Debug\net7.0\OOP_Lab2.exe
+D:\Projekts_Visual_Studio\Repozitorium\OOP_Lab2\bin\Debug\net7.0\OOP_Lab2.deps.json
+D:\Projekts_Visual_Studio\Repozitorium\OOP_Lab2\bin\Debug\net7.0\OOP_Lab2.runtimeconfig.json
+D:\Projekts_Visual_Studio\Repozitorium\OOP_Lab2\bin\Debug\net7.0\OOP_Lab2.dll
+D:\Projekts_Visual_Studio\Repozitorium\OOP_Lab2\bin\Debug\net7.0\OOP_Lab2.pdb
+D:\Projekts_Visual_Studio\Repozitorium\OOP_Lab2\obj\Debug\net7.0\OOP_Lab2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projekts_Visual_Studio\Repozitorium\OOP_Lab2\obj\Debug\net7.0\OOP_Lab2.AssemblyInfoInputs.cache
+D:\Projekts_Visual_Studio\Repozitorium\OOP_Lab2\obj\Debug\net7.0\OOP_Lab2.AssemblyInfo.cs
+D:\Projekts_Visual_Studio\Repozitorium\OOP_Lab2\obj\Debug\net7.0\OOP_Lab2.csproj.CoreCompileInputs.cache
+D:\Projekts_Visual_Studio\Repozitorium\OOP_Lab2\obj\Debug\net7.0\OOP_Lab2.dll
+D:\Projekts_Visual_Studio\Repozitorium\OOP_Lab2\obj\Debug\net7.0\refint\OOP_Lab2.dll
+D:\Projekts_Visual_Studio\Repozitorium\OOP_Lab2\obj\Debug\net7.0\OOP_Lab2.pdb
+D:\Projekts_Visual_Studio\Repozitorium\OOP_Lab2\obj\Debug\net7.0\OOP_Lab2.genruntimeconfig.cache
+D:\Projekts_Visual_Studio\Repozitorium\OOP_Lab2\obj\Debug\net7.0\ref\OOP_Lab2.dll
